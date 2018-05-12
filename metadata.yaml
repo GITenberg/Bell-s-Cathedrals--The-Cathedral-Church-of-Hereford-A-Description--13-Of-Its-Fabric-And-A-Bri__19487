@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8703'
     url: http://www.gutenberg.org/2009/agents/8703
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19487#Bell-s-Cathedrals--The-Cathedral-Church-of-Hereford-A-Description--13-Of-Its-Fabric-And-A-Bri_
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2006-10-07'
 gutenberg_type: Text
