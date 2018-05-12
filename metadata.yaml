@@ -1,0 +1,29 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-Hereford-A-Description--13-Of-Its-Fabric-And-A-Bri__19487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fisher, A. Hugh (Alfred Hugh)
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '8703'
+    url: http://www.gutenberg.org/2009/agents/8703
+description: ''
+gutenberg_bookshelf: Architecture
+gutenberg_issued: '2006-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19487'
+  lccn: '03013762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Hereford Cathedral'
+title: "Bell's Cathedrals: The Cathedral Church of Hereford\r\nA Description of Its\
+  \ Fabric and a Brief History of the Episcopal See"
+url: http://www.gutenberg.org/ebooks/19487
